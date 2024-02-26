@@ -1,0 +1,20 @@
+Pesquisa sobre ferramentas:
+1-vscode: https://code.visualstudio.com/
+O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux   
+e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe,
+ complementação inteligente de código, snippets e refatoração de código. 
+2- Python: https://www.python.org/
+O Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software,
+ ciência de dados e machine learning (ML). Os desenvolvedores usam o Python porque é eficiente e fácil de 
+ aprender e pode ser executada em muitas plataformas diferentes.
+3- SQL: https://cloud.google.com/sql?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-SKWS-all-all-trial-p-dr-1707800-LUAC0015917&utm_content=text-ad-none-any-DEV_c-CRE_536282978369-ADGP_Hybrid+%7C+SKWS+-+PHR+%7C+Txt+~+Databases_SQL-KWID_43700065328140739-kwd-45539041&utm_term=KW_sql-ST_SQL&gad_source=1&gclid=EAIaIQobChMIiMKe54PJhAMV3DWtBh0HdQUHEAAYASAAEgI9WvD_BwE&gclsrc=aw.ds
+O SQL é uma linguagem padrão para manipulação de registros em bancos de dados relacionais.    
+4-GIT: https://github.com/
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.
+ Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em
+  projetos privados e/ou Open Source de qualquer lugar do mundo.
+4- Navegadores:
+Opera: https://www.opera.com/pt-br/gx?edition=std-1&utm_source=PWNgames&utm_medium=pa&utm_campaign=PWN_BR_HVR_3736&utm_content=3736_&utm_id=7e457b1c355e4eeca549c3f7472c6d19
+Google Chrome: https://www.google.com/intl/pt-BR/chrome/
+Microsoft Edge: https://www.microsoft.com/pt-br/edge/download?form=MA13FJ
+Fire Fox: https://mozilla-firefox.softonic.com.br/
